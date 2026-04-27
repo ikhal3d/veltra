@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-label="Veltra on dark">
-  <title>Veltra on dark</title>
-  <rect width="800" height="800" fill="#15101F"/>
-  <g transform="translate(144 160)" fill="#FFFFFF">
-    <path d="M40 30 L180 30 L262 450 L122 450 Z" opacity=".75"/>
-    <path d="M332 30 L472 30 L390 450 L250 450 Z"/>
-  </g>
-</svg>
