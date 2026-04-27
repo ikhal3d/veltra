@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 540" role="img" aria-label="Veltra">
+  <title>Veltra (white)</title>
+  <g fill="#FFFFFF">
+    <path d="M256 28 L286 60 L256 92 L226 60 Z" opacity=".95"/>
+    <path d="M60 110 L180 110 L264 460 L144 460 Z" opacity=".70"/>
+    <path d="M332 110 L452 110 L368 460 L248 460 Z" opacity=".90"/>
+    <path d="M256 410 L296 460 L256 510 L216 460 Z"/>
+  </g>
+</svg>
